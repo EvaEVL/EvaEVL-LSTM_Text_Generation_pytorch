@@ -6,6 +6,8 @@
 Для небольшого интерактива модель использовалась с несложным телеграмм ботом.
 
 Примеры работы модели:
+
+
 ![image](https://user-images.githubusercontent.com/24653067/219114334-34f89f89-9fe6-4cb3-9f00-008653e44ecd.png)
 ![image](https://user-images.githubusercontent.com/24653067/219114443-89546552-b3ad-4d3c-afeb-b735468bee3f.png)
 
