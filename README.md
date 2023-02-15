@@ -1,1 +1,3 @@
-# EvaEVL-LSTM_Text_Generation_pytorch
+# LSTM Text Generation pytorch
+В этом репозитории реализована генерация текста с использованием LSTM.
+Так же имеется простая предобработка данных. 
